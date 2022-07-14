@@ -25,4 +25,5 @@
 [![Syed github stats](https://github-readme-stats.vercel.app/api?username=Syed-Hamza-Zahir)](https://github.com/Syed-Hamza-Zahir/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Hamza-Zahir)](https://github.com/Syed-Hamza-Zahir/github-readme-stats)
+## Visitor count :
 ![Visitor Count](https://profile-counter.glitch.me/Syed-Hamza-Zahir/count.svg)
