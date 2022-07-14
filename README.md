@@ -1,4 +1,4 @@
-## Hello, I'm Syed - A Junior DevSecOps Engineer :books: :dart:
+## Hello, I'm Syed - A Junior DevOps Engineer :books: :dart:
 
 ### **Technical Skills**
 
